@@ -1,4 +1,5 @@
-# TUBES-JARTEL
+# TUBES-JARTEL 
+### Simulasi QoS (Quality of Service Pada Jaringan Wi-fi Kantor)
 Nama Anggota :
  - Tito Ajisaka
  - Bagus Dwi Prasetyo
