@@ -1,6 +1,6 @@
 # TUBES-JARTEL
 Update terkait pengerjaan tubes jartel
-#Anggota Kelompok :
+\nAnggota Kelompok :
  Tito Ajisaka
  - Bagus Dwi Prasetyo
  - M Hidayatullah Pratama
